@@ -1,8 +1,6 @@
 ### Supp 💎💎💎
 
-Here are some ideas to get you started:
-
-**About ME**
+**About Me**
 
 - At the moment I'm working in many projects! 🎈
 - I usually code in Python, C and C# 🎱
