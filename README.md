@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - I don't do Web Dev 😫
 - You can find me on Discord as: !Jet#0728 🎃
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" />
+  <img align="right" alt="GIF" src="https://th.bing.com/th/id/OIP.58Q7rc3LSG2nBBPHhoaH9wHaG4?pid=ImgDet&w=1012&h=941&rs=1" />
 
 **Languajes and OS**
 
