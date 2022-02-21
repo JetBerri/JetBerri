@@ -21,3 +21,5 @@
 <code><img height="20" src="https://www.raspberryitaly.com/wp-content/uploads/2015/04/Arch-linux-logo.png"></code>
 <code><img height="20" src="https://th.bing.com/th/id/R.9a636045450b95eaa450e3fdd6402f8c?rik=%2fMRTcQrU1AWngg&pid=ImgRaw&r=0"></code>
 <code><img height="20" src="https://th.bing.com/th/id/OIP.JBd1IXQwUTlUE6pCoF4LTgHaGj?pid=ImgDet&rs=1"></code>
+
+![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jet Berry's&layout=compact&theme=dark "Languages")
