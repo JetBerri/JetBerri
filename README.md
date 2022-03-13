@@ -7,7 +7,7 @@
 - I'm currently learning and coding some stuff with Java, Asselmbly and Shell Scripting 🧪
 - Developing a Linux Distro 💿
 - I don't do Web Dev 😫
-- You can find me on Discord as: !Jet#0728 🎃
+- You can find me on Discord as: !Jet#0010 🎃
 
 
 **Languajes and OS**
