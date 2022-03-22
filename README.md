@@ -3,8 +3,7 @@
 **About Me**
 
 - At the moment I'm working in many projects! 🎈
-- I usually code in Python, C and C# 🎱
-- I'm currently learning and coding some stuff with Java, Asselmbly and Shell Scripting 🧪
+- I'm currently learning and coding some stuff with C, Asselmbly,Python and Shell Scripting 🧪
 - Developing a Linux Distro 💿
 - I don't do Web Dev 😫
 - You can find me on Discord as: !Jet#0010 🎃
