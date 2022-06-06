@@ -2,11 +2,10 @@
 
 **About Me**
 
-- At the moment I'm working in many projects! 🎈
-- I'm currently learning and coding some stuff with C, Asselmbly,Python and Shell Scripting 🧪
-- Developing a Linux Distro 💿
+- I'm just coding things I have in mind :).
+- I'm currently developing stuff with low-level languajes. 🧪
 - I don't do Web Dev 😫
-- You can find me on Discord as: !Jet#0010 🎃
+- You can find me on Discord as: 0xrash#5967
 
 
 **Languajes and OS**
