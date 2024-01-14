@@ -1,21 +1,12 @@
-### Supp 💎💎💎
+[![HitCount](https://komarev.com/ghpvc/?username=Watchman-0xa&label=Profile%20views&color=60dae2&style=flat)](https://github.com/Watchman-0xa)
+### Hi! 👋 
 
-**About Me**
+This are some projects I enjoy developing just to become a better engineer and for the future. I'm not focused in just an area, I love programming and I try to make as many projects as I can.
 
-- I'm just coding things I have in mind :).
-- I'm currently developing stuff with low-level languajes. 🧪
-- I don't do Web Dev 😫
-- You can find me on Discord as: 0xrash#5967
+Engineer wannabe 💻🤓.
 
+- 👨🏽‍💻 &nbsp; You can ask me about: `C, C++, Python, Linux, Golang, ASM, and many more things`.
+- 🤝 &nbsp; If you need help in a project check the sponsors section I am here to help. 
 
-**Languajes and OS**
-
-<code><img height="20" src="https://th.bing.com/th/id/OIP.iJfGjCTkmPJpH7hySZv6HAHaEK?pid=ImgDet&rs=1"></code>
-<code><img height="20" src="https://th.bing.com/th/id/R.f307f0fe8e6ad00a762cee4ff2889c43?rik=%2f6IteKOCmlAkrg&pid=ImgRaw&r=0"></code>
-<code><img height="20" src="https://th.bing.com/th/id/OIP.bkbn2-K7c9rMBV5dvYXDrQHaIh?pid=ImgDet&rs=1"></code>
-<code><img height="20" src="https://i.pinimg.com/236x/5b/26/f8/5b26f83351937031dd12f1b3743f712e.jpg"></code>
-<code><img height="20" src="https://th.bing.com/th/id/OIP.Nr9zjJSTLJAV_QKj5y3mowHaD4?pid=ImgDet&rs=1"></code>
-<code><img height="20" src="http://cdn3.brettterpstra.com/uploads/2015/02/terminal-longshadow.png"></code>
-<code><img height="20" src="https://www.raspberryitaly.com/wp-content/uploads/2015/04/Arch-linux-logo.png"></code>
-<code><img height="20" src="https://th.bing.com/th/id/R.9a636045450b95eaa450e3fdd6402f8c?rik=%2fMRTcQrU1AWngg&pid=ImgRaw&r=0"></code>
-<code><img height="20" src="https://th.bing.com/th/id/OIP.JBd1IXQwUTlUE6pCoF4LTgHaGj?pid=ImgDet&rs=1"></code>
+[![Watchman-0xa's github stats](https://github-readme-stats.vercel.app/api?username=Watchman-0xa&count_private=true&show_icons=true&bg_color=22272E&text_color=FFFFFF&title_color=e520ff&hide_border=true)](https://github.com/Watchman-0xa)
+</br>
