@@ -41,16 +41,6 @@
 
 ---
 
-### Active projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **CopDog** | Jira analytics + ML pipeline — overdue prediction & time-to-resolution modeling | FastAPI · XGBoost · Ollama · Pandas |
-| **Workshop Manager** | Full backend for automotive repair shop management with AI assistant | FastAPI · PostgreSQL · MinIO · Waha |
-| **n8n Automation** | B2B workflow automation platform with WhatsApp and AI integrations | n8n · Docker · Nginx |
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/dioni-ant%C3%B3n-quer-9036b7367/">LinkedIn</a>
 </p>
